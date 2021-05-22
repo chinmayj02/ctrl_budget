@@ -1,0 +1,113 @@
+#banner-image{
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../images/background.jpg) no-repeat center center;
+    background-size: cover;
+}
+#banner-content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+footer{
+    position: fixed;
+	padding: 10px 0;
+	text-align: center;
+	bottom: 0;
+	background-color: #101010;
+	color: #9d9d9d;
+	width: 100%;
+}
+.row_style{
+    margin-top:50px;
+}
+.text-warning{
+    margin-bottom: 10px;
+    text-align: center;
+}
+.reg{
+    color: blue;
+}
+.reg:hover{
+    color: blue;
+}
+.panel{
+    margin-top: 10px;
+}
+#h1{
+    margin-top: 60px;
+}
+.signup-btn{
+    margin-bottom: 10px;
+}
+.panel-margin {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.text-lighter{
+    color: rgba(0, 0, 0, 0.6);
+}
+.table{
+    border-top: none;
+}
+.panel-s{
+    display: block;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: .2em;
+    padding:15px;
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 10px;
+    background-color: white;
+}
+.panel-title{
+    font-weight: bold;
+    text-align: center;
+}
+.panel-heading{
+    margin-bottom: 15px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+}
+#success-title{
+    text-align: center;
+}
+.continue{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color:whitesmoke;
+}
+.panel-align{
+    margin-left: 50%;
+    margin-top: 25%;
+    width: 100%;
+}
+a{
+    display: block;
+    color: white;
+}
+.btn-disabled{
+    background-color: gray;
+}
+.btn-disabled:hover{
+    background-color: rgba(255,0,0,0.8);
+}
+.btn-s{
+    background-color: teal;
+}
+.panel-l{
+    margin-top: 65px;
+    width: 100%;
+}
+.panel-f{
+    background-color: white;
+    border-bottom: none;
+}
