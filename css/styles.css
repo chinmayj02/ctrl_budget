@@ -111,3 +111,9 @@ a{
     background-color: white;
     border-bottom: none;
 }
+.about-us-container{
+    display:inline-flex;
+    margin-top: 10%;
+    width: 40%;
+    margin-right: 5%;
+}
